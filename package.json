@@ -1,0 +1,11 @@
+{
+  "name": "contacts",
+  "version": "0.0.1",
+  "description": "Application for checking getting your contacts when you dont have access to your phone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bradley gaynor <bradmgaynor@gmail.com>",
+  "license": "ISC"
+}
